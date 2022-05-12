@@ -5,7 +5,7 @@
     <h1 align="center">Amiral Ariska Theme</h1>
 </p>
 
-[![Amiral Ariska Theme Demo](https://i.postimg.cc/rsHbPwtS/amiral-ariska-theme-demo.gif)](https://i.postimg.cc/rsHbPwtS/amiral-ariska-theme-demo.gif)
+[![Amiral Ariska Theme Demo](https://xp.io/storage/EaMrDhT.gif)](https://xp.io/storage/EaMrDhT.gif)
 # Amiral Ariska Theme For VSCODE
 ## Font
 ### Font 1
@@ -37,6 +37,20 @@ this font is free for programmer
 5. And hit enter
 6. And now your theme has been changed
 > Note: If you want to use This color theme just follow this steps☝
+
+## Settings
+### How to Disable Bracket Pair Colorization in settings
+1. To Open VSCODE Settings JSON File Press `Ctrl+Alt+,` To Open VSCODE Settings JSON File
+[![VSCODE Settings Tutorial 1 - Bracket Pair Colorization](https://xp.io/storage/AXCAcVu.gif)](https://xp.io/storage/AXCAcVu.gif)
+2. To Disable Bracket Pair Colorization in VSCODE Settings JSON Copy this settings down below and save the file
+[![VSCODE Settings Tutorial 2 - Bracket Pair Colorization](https://xp.io/storage/B02K24T.gif)](https://xp.io/storage/B02K24T.gif)
+```jsonc
+{
+    "editor.bracketPairColorization.enabled": false,
+}
+```
+3. and now Bracket Pair Colorization is disabled
+> Note: If you want to follow vscode settings just follow this tutorial ☝
 
 ## Giving Rating
 ⭐⭐⭐⭐⭐ Rate 5 stars 😃
