@@ -41,9 +41,9 @@ this font is free for programmer
 ## Settings
 ### How to Disable Bracket Pair Colorization in settings
 1. To Open VSCODE Settings JSON File Press `Ctrl+Alt+,` To Open VSCODE Settings JSON File
-[![VSCODE Settings Tutorial 1 - Bracket Pair Colorization](https://xp.io/storage/AXCAcVu.gif)](https://xp.io/storage/AXCAcVu.gif)
+[![VSCODE Settings Tutorial 1 - Bracket Pair Colorization](https://xp.io/storage/GEPGwfg.gif)](https://xp.io/storage/GEPGwfg.gif)
 2. To Disable Bracket Pair Colorization in VSCODE Settings JSON Copy this settings down below and save the file
-[![VSCODE Settings Tutorial 2 - Bracket Pair Colorization](https://xp.io/storage/B02K24T.gif)](https://xp.io/storage/B02K24T.gif)
+[![VSCODE Settings Tutorial 2 - Bracket Pair Colorization](https://xp.io/storage/GEUtdyt.gif)](https://xp.io/storage/GEUtdyt.gif)
 ```jsonc
 {
     "editor.bracketPairColorization.enabled": false,
