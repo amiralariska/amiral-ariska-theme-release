@@ -33,7 +33,6 @@
 ### Update VSCODE Theme
 - VSCODE Theme Updates: Update VSCODE Theme
 
-
 ## 0.0.4
 ### Update README
 - README Updates: Update VSCODE Theme Demo
