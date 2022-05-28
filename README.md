@@ -5,7 +5,12 @@
     <h1 align="center">Amiral Ariska Theme</h1>
 </p>
 
-[![Amiral Ariska Theme Demo](https://xp.io/storage/EaMrDhT.gif)](https://xp.io/storage/EaMrDhT.gif)
+## Amiral Ariska Theme Demo
+[![Amiral Ariska Theme Demo](https://xp.io/storage/13fyTcBh.gif)](https://xp.io/storage/13fyTcBh.gif)
+## Amiral Ariska Theme Blue Demo
+[![Amiral Ariska Theme Blue Demo](https://xp.io/storage/13g4zDln.gif)](https://xp.io/storage/13g4zDln.gif)
+## Amiral Ariska Theme Blue Cyan Demo
+[![Amiral Ariska Theme Blue Cyan Demo](https://xp.io/storage/13ghS6gs.gif)](https://xp.io/storage/13ghS6gs.gif)
 # Amiral Ariska Theme For VSCODE
 ## Font
 ### Font 1
@@ -18,7 +23,7 @@ and this font name is "Fira Mono"
 [![Fira Mono - VSCODE Font Family](https://i.postimg.cc/0ySRBNMg/fira-mono-font.jpg)](https://fonts.google.com/specimen/Fira+Mono?query=Fira+Mono)
 click here👇<br>
 [Download Font Here](https://fonts.google.com/download?family=Fira%20Mono)<br>
-this font is free for programmer
+this font is free for programming
 
 ## Installation
 ### How To Install Color Theme Extension
@@ -43,21 +48,16 @@ this font is free for programmer
 1. To Open VSCODE Settings JSON File Press `Ctrl+Alt+,` To Open VSCODE Settings JSON File
 [![VSCODE Settings Tutorial 1 - Bracket Pair Colorization](https://xp.io/storage/GEPGwfg.gif)](https://xp.io/storage/GEPGwfg.gif)
 2. To Disable Bracket Pair Colorization in VSCODE Settings JSON Copy this settings down below and save the file
-[![VSCODE Settings Tutorial 2 - Bracket Pair Colorization](https://xp.io/storage/GEUtdyt.gif)](https://xp.io/storage/GEUtdyt.gif)
 ```jsonc
 {
     "editor.bracketPairColorization.enabled": false,
 }
 ```
+[![VSCODE Settings Tutorial 2 - Bracket Pair Colorization](https://xp.io/storage/GEUtdyt.gif)](https://xp.io/storage/GEUtdyt.gif)
 3. and now Bracket Pair Colorization is disabled
 > Note: If you want to follow vscode settings just follow this tutorial ☝
 
 ## Giving Rating
 ⭐⭐⭐⭐⭐ Rate 5 stars 😃
-
-## About Amiral Ariska Theme Release
-For more information About Amiral Ariska Theme Release<br>
-Click link down below<br>
-[Amiral Ariska Theme Release](https://github.com/amiralariska/amiral-ariska-theme-release)
 
 **Thank You For Using This Color Theme**
