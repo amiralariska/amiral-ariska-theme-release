@@ -39,3 +39,21 @@
 - README Updates: Update Settings Tips
 - README Updates: Update Keyboard Shortcuts Tips
 - README Updates: Update Other Keyboard Shortcuts Tips Link
+
+### Update VSCODE Theme
+- VSCODE Theme Updates: Update VSCODE Theme
+
+### Add New VSCODE Theme
+#### New Blue Theme
+- Add New Amiral Ariska Dark Theme (Blue)
+- Add New Amiral Ariska Light Theme (Blue)
+- Add New Amiral Ariska Dark Theme (Blue Muted)
+- Add New Amiral Ariska Light Theme (Blue Muted)
+
+#### New Blue And Cyan Theme
+- Add New Amiral Ariska Dark Theme (Blue Cyan)
+- Add New Amiral Ariska Light Theme (Blue Cyan)
+
+## 0.0.5
+### Update README
+- README Updates: Update README.md file
